@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Aytaç</h1>
 <h3 align="center">I am an passionate engineer who aims for a career in software development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aytacaydemir&label=Profile%20views&color=0e75b6&style=flat" alt="aytacaydemir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aytacaydemir" alt="aytacaydemir" /></a> </p>
 
