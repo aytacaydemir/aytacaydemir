@@ -2,6 +2,11 @@
 <h3 align="center">I am an passionate engineer who aims for a career in software development</h3>
 
 
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/05iswvWQZxYTDiTfDB/giphy.gif">
+</p>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aytacaydemir" alt="aytacaydemir" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA Programming**
