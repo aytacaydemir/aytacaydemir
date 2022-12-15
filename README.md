@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aytaç</h1>
-<h3 align="center">I am an passionate engineer who aims for a career in software development</h3>
+<h3 align="center">I am an engineer who aims for a career in software development</h3>
 
 
 <p align="center">
