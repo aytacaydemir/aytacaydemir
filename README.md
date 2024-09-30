@@ -1,13 +1,10 @@
 <h1 align="center">Hi, I'm Aytaç</h1>
-<h3 align="center">I am an engineer who aims for a career in software development</h3>
 
 
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/05iswvWQZxYTDiTfDB/giphy.gif">
 </p>
 
-
-- 🌱 I’m currently learning **JAVA Spring Boot**
 
 - 📫 How to reach me **aytacaydemr@gmail.com**
 
